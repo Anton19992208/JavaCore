@@ -1,0 +1,21 @@
+{
+  "id": 25,
+   "start-raw": {
+     "method": "GET",
+     "url": "version",
+     "version": 1.1
+   },
+  "headers": [
+    {
+      "name": "context-type",
+      "value": "text/html"
+    },
+    {
+      "name": "accept",
+      "value": "application/json"
+    }
+  ],
+  "body": {
+    "text": "text/plain"
+  }
+}
